@@ -1,2 +1,2 @@
-# Clothes_Management-_System
-Clothes_Management _System using Spring Boot, JDBC and MySql.
+# Clothes_Management_System
+Clothes_Management_System using Spring Boot, JDBC and MySql.
